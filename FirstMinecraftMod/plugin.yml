@@ -1,0 +1,3 @@
+name: testplugin
+main: io.github.RoyalSpree.testplugin.testplugin
+version: 1.0
